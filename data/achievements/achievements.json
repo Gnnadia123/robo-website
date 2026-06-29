@@ -22,6 +22,25 @@
       {
         "awards": [
           {
+            "category": "Blank's Beginnings",
+            "recipients": [
+              "Travis Yeo",
+              "Kyle Henric Buguina Chua",
+              "Jayden Ho Yuan Cheng",
+              "Daryl Lim",
+              "Jerome Ng"
+            ],
+            "team": "Isodynamic 8068E",
+            "title": "Tournament Champions"
+          }
+        ],
+        "code": "blanks",
+        "desc": "",
+        "region": "sg"
+      },
+      {
+        "awards": [
+          {
             "category": "Overall",
             "recipients": [
               "Damien Chong Yu Zhe",
